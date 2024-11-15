@@ -1,5 +1,6 @@
-name = "node-waku"
+name = "farm-test"
 main = "./dist/entries.js"
+assets = {directory = "./dist/public"}
 
 compatibility_date = "2024-11-15"
 compatibility_flags = ["nodejs_compat"]

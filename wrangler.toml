@@ -1,4 +1,4 @@
-name = "farm-test"
+name = "node-waku"
 main = "./dist/entries.js"
 assets = {directory = "./dist/public"}
 
